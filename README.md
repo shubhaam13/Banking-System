@@ -1,4 +1,6 @@
-# Shubham kumar Banking System
+# Banking Management System
+
+## CreatedBy - Shubham Kumar 
 
 ### Sparks Foundation Internship Project : Basic Banking System  
 
