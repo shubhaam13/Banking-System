@@ -1,9 +1,9 @@
 <?php
 
-	$servername = "localhost";
-	$username = "root";
-	$password = "D6X]c1eaOVF9rDY0";
-	$dbname = "indian_bank.sql";
+	$servername = "remotemysql.com";
+	$username = "EhKDBeTS59";
+	$password = "UPTqRAl8AL";
+	$dbname = "EhKDBeTS59";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
