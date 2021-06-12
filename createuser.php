@@ -33,7 +33,7 @@ window.location='transfermoney.php';
 include 'navbar.php';
 ?>
 
-<div class="maincontainer" ">
+<div class="maincontainer">
 
 <h2 class="text-center pt-4"></h2>
 <br>

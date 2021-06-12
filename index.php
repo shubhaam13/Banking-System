@@ -40,7 +40,7 @@
                   <div class="col-md act">
                     <img src="img/user.jpg" class="img-fluid">
                     <br>
-                    <a href="viewallcustomers.php"><button style="background-color :#0834fa ;">User</button></a>
+                    <a href="createuser.php"><button style="background-color :#0834fa ;">Create a User</button></a>
                   </div>
                   <div class="col-md act">
                     <img src="img/transfer.jpg" class="img-fluid">
