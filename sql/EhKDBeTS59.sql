@@ -47,7 +47,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 (8, 'Juhi', 'chawla@gmail.com', 40000),
 (9, 'Nick', 'jonas@gmail.com', 30000),
 (10, 'Taapsee', 'pannu@gmail.com', 50000);
-
+COMMIT;
 --
 -- Indexes for dumped tables
 --
